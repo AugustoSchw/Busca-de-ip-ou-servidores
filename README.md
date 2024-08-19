@@ -1,4 +1,4 @@
-# Aplica-o-de-Linha-de-comando
+# App-de-Linha-de-comando
 Aplicação de Linha de comando usando a linguagem Go
 Funcionamento: Mostra os IPs ou servidores ligados a um site através de seu endereço
 
